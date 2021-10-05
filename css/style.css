@@ -56,7 +56,7 @@ input.empty {
 .nav1 {
   flex-direction: row;
   height: 54px;
-  max-width: 1200px;
+  max-width: 975px;
   padding: 0 20px;
   margin-right: auto;
   margin-left: auto;
@@ -66,7 +66,7 @@ input.empty {
 .ins {
   width: 360px;
   height: 36px;
-  margin-left: 192px;
+  margin-left: 0px;
 }
 /* .sagust {
   margin-left: 200px;
